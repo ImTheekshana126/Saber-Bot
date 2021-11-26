@@ -74,29 +74,30 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hey there! My name is Saber.
+🌺Hey there! My name is *Saber*.
+
 I can help manage your groups with useful features, feel free to add me to your groups!
 """
+STICKERS = (
+      "CAACAgIAAxkBAAEDYcdhdOz0L7-NXtkeB2tWmfntCkd_HQACDgADr8ZRGrdbgux-ASf3IQQ",
+      "CAACAgIAAxkBAAEDYc9hdO0h210lMXHG2iYC9lvVWqKHsAACCwADr8ZRGoDYD2zEu_THIQQ",
+      " CAACAgIAAxkBAAEDYcdhdOz0L7-NXtkeB2tWmfntCkd_HQACDgADr8ZRGrdbgux-ASf3IQQ",
+)  
 
 buttons = [
+   
     [
+        InlineKeyboardButton(text="📡Updates Channel", url=f"https://t.me/theekshana_official"),
         InlineKeyboardButton(
-            text="Add Saber To Your Groups", url="t.me/TGN_Ro_bot?startgroup=true"),
-    ],
-    [
-        InlineKeyboardButton(text="Source 💫", url=f"https://github.com/imthekshana126/saber-bot"),
-        InlineKeyboardButton(
-            text="support", url=f"https://t.me/{SUPPORT_CHAT}"
+            text="🖲support Group", url=f"https://t.me/{SUPPORT_CHAT}"
         ),
     ],
     [
-        InlineKeyboardButton(text="Updates", url=f"https://t.me/theekshana_official"),
-        InlineKeyboardButton(
-            text="Developer", url=f"https://t.me/pawan_theekshana"
-        ),
+        InlineKeyboardButton(text="📜Source Code", url=f"https://github.com/imthekshana126/saber-bot"),
+        InlineKeyboardButton(text="❔Help", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="Help And Commands", callback_data="help_back"),
+        InlineKeyboardButton(text="➕Add Saber To Your Groups➕", url=f"t.me/TheSaberBot?startgroup=true"),
     ],
 ]
 
