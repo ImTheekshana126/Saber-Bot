@@ -79,9 +79,7 @@ PM_START_TEXT = """
 I can help manage your groups with useful features, feel free to add me to your groups!
 """
 STICKERS = (
-      "CAACAgIAAxkBAAEDYcdhdOz0L7-NXtkeB2tWmfntCkd_HQACDgADr8ZRGrdbgux-ASf3IQQ",
-      "CAACAgIAAxkBAAEDYc9hdO0h210lMXHG2iYC9lvVWqKHsAACCwADr8ZRGoDYD2zEu_THIQQ",
-      " CAACAgIAAxkBAAEDYcdhdOz0L7-NXtkeB2tWmfntCkd_HQACDgADr8ZRGrdbgux-ASf3IQQ",
+      "CAACAgUAAxkBAAMxYaC7sIURJEZ2UwS63R2ddwclqKoAAsADAAJgmgFVYsOYytk-2b4iBA",
 )  
 
 buttons = [
