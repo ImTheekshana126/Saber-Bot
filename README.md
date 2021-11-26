@@ -36,7 +36,7 @@ Can be found on Telegram as [TGN Saber](https://t.me/thesaberbot)</br>
 
 
 ## 🅡🅔🅟🅞 🅢🅣🅐🅣🅢
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Itsunknown-12&repo=TGN-Robot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=imtheekshana126-12&repo=saber-bot&theme=dark)
 
 ## 🅓🅔🅟🅛🅞🅨
 [![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/imtheekshana126/saber-bot)
