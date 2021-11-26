@@ -2,9 +2,9 @@
 
 ### 🎖 History
 
-[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/Itsunknown-12/TGN-Robot)
+[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/imtheekshana126/saber-bot)
 
-<p align = "center"><a herf = "https://t.me/Zaid2_Ro_bot" alt = "Zaid"><img src = "https://telegra.ph/file/72adf19e20736e946b3e5.jpg" width = "900"></a></p>
+<p align = "center"><a herf = "https://t.me/thesaberbot" alt = "Zaid"><img src = "https://telegra.ph/file/72adf19e20736e946b3e5.jpg" width = "900"></a></p>
 
 <p align = "center">
 <a href = "https://python.org">
@@ -13,7 +13,7 @@
 </a>
 
 <p align = "center">
-<a href = "https://github.com/Itsunknown-12/Zaid-Robot">
+<a href = "https://github.com/imtheekshana126/saber-bot">
 <img src = "https://forthebadge.com/images/badges/open-source.svg">
 </p>
 </a>
@@ -40,15 +40,6 @@ Can be found on Telegram as [TGN Saber](https://t.me/thesaberbot)</br>
 
 ## 🅓🅔🅟🅛🅞🅨
 [![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/imtheekshana126/saber-bot)
-
-
-## 🆅🅴🆁🅸🅰🅱🅻🅴🆂
-[ᴄᴏɴꜰɪɢᴜʀᴀᴛɪᴏɴ](https://github.com/Itsunknown-12/Zaid-Robot/blob/master/Configuration)
-
-## 🆂🆄🅿🅿🅾🆁🆃
-[![Zaid](https://img.shields.io/badge/Zaid-Channel-red?style=for-the-badge&logo=telegram)](https://t.me/SUPERIOR_BOTS)</br></br>
-[![Zaid](https://img.shields.io/badge/Superior-Group-red?style=for-the-badge&logo=telegram)](https://t.me/SUPERIOR_SUPPORT)</br></br>
-[![CONTACT ME](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Timesisnotwaiting)
 
 ## 🆃🅷🅰🅽🅺🆂 🅵🅾🆁 🅲🅾🅳🅴🆂...
 
