@@ -1,4 +1,4 @@
-__mod_name__ = "TGN Player"
+__mod_name__ = "Saber Player"
 
 __help__ = """
 =>> *Song Playing* 🎧 
@@ -17,6 +17,6 @@ __help__ = """
 ❍ /userbotjoin - invite assistant to your chat
 ❍ /admincache - Refresh admin list
 =>>   *Use*
-1) Add @TGN_ROBOT in your group to admin with all permission
-2) Add Assistant I'd to your group @TGN_ASSISTANT
+1) Add @TheSaberBot in your group to admin with all permission
+2) Add Assistant I'd to your group @SaberAssistant
 """
