@@ -46,3 +46,4 @@ Can be found on Telegram as [TGN Saber](https://t.me/thesaberbot)</br>
 
 
 [![](https://jitpack.io/v/ImTheekshana126/Dewmi-Group-Manage-Bot.svg)](https://jitpack.io/#ImTheekshana126/Dewmi-Group-Manage-Bot)
+[![Profile views](https://komarev.com/ghpvc/?username=saber-bot&label=Profile%20views)](https://github.com/imtheekshana126) 
