@@ -48,6 +48,7 @@
 
 # 🧙‍♀️ Deploy Guide
 
+[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/imtheekshana126/saber-bot)
 
 ## TeamSaber
 
