@@ -60,30 +60,7 @@
 <a href="https://t.me/Theekshana_Support"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/TheekshanaOfficial"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
-### Self-hosting (For Devs) 😎
-```sh
-# Install Git First (apt-instll git)
-$ git clone https://github.com/Imtheekshana126/saber-bot
-$ cd Saber-bot
-# Upgrade sources
-$ bash deploy.sh
-# Install All Requirements 
-$ pip3 install -r requirements.txt
-# Rename ./Saber-bot/data/bot_conf.yaml.example to bot_conf.yaml and fill
-# Start Bot 
-$ python3 -m Natsuki
-```
-### Mandatory Vars 🙋‍♀️
-```
-[+] Make Sure You Add All These Mandatory Vars. 
-    [-] APP_ID:   You can get this value from @SDMyTgOrgBot
-    [-] APP_HASH :   You can get this value from @SDMyTgOrgBot
-    [-] MONGO_URI : Your Mongo DB DataBase Url. .
-    [-] TOKEN: Get from botfarther
-    [-] DATABASE_URL: from elephantsql.com
-    [-] OWNER_ID: ur id
-[+] The Natsuki won't run without setting the mandatory vars.
-```
+
 ![Contributors](https://contrib.rocks/image?repo=Imtheekshana126/saber-bot)
 
 ## Special Credits
