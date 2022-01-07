@@ -100,7 +100,7 @@ Anything missing kindly let us know at [Theekshana Support](https://t.me/Theeksh
 
 ## Devs & Contributors
 
-#### • PAWAN THEEKSHANA    »»  <a href="https://github.com/ImTheekshana126" alt="SADEW451"> <img src="https://img.shields.io/badge/ImTheekshana1276-90302f?logo=github" /></a> (OWNER)
+#### • PAWAN THEEKSHANA    »»  <a href="https://github.com/ImTheekshana126" alt="SADEW451"> <img src="https://img.shields.io/badge/PAWAN THEEKSHANA-90302f?logo=github" /></a> (OWNER)
 #### • DAMANTHA JASINGHA  »»  <a href="https://github.com/DAMANTHA126" alt="DAMANTHAJASINGHA"> <img src="https://img.shields.io/badge/DAMANTHA126-82CAFA?logo=github" /></a> (DEV)
 #### • THENULA SENEVIRATHNA »»  <a href="https://T.me/Thenula66" alt="THENULA SENEVIRATHNA"></a> (DEV).
  
