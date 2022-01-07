@@ -46,7 +46,7 @@
 
 > Thanks to everyone who starred Saber, That is the greatest pleasure we have !
 
-# 🧙‍♀️ Deploy Guide
+# Deploy to Heroku
 
 [![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/imtheekshana126/saber-bot)
 
@@ -54,7 +54,6 @@
 
 ## Avaiilable on Telegram as [@TheSaberBot](https://t.me/thesaberbot)
 
-# 🏃‍♂️ Deploy 
 
 # ⚡ Support
 <a href="https://t.me/Theekshana_Support"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
