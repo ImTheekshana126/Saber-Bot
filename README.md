@@ -35,10 +35,10 @@
 <h4 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
-  <a href="https://github.com/Sadew451/Natsuki/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
+  <a href="https://github.com/imtheekshana126/saber-bot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/NatsukiSupport_Official"><img src="https://telegra.ph/file/12a67bfae430322ceb2e8.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/NatsukiSupport_Official"><img src="https://telegra.ph/file/e381a63724b094bbf4456.jpg" width="400"></a></p>
 <p align="center">
     <a href="https://github.com/Imtheekshana126/saber-bot/commits/SadewJayasekara"> <img src="https://img.shields.io/github/last-commit/Imtheekshana126/saber-bot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
   
@@ -47,12 +47,6 @@
 > Thanks to everyone who starred Saber, That is the greatest pleasure we have !
 
 # 🧙‍♀️ Deploy Guide
-
-## Complete guide on deploying @TheSaberBot's clone on Heroku.
-
-## This Tutorial is Old Bot Video But its Ok You Can Use it ✨
-
-[![Tutorial](https://yt-embed.herokuapp.com/embed?v=YyiO6jdPzXg)](https://youtu.be/YyiO6jdPzXg)
 
 
 ## TeamSaber
